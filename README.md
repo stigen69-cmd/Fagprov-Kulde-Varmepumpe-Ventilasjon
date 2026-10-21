@@ -1,1 +1,2 @@
-# Fagprov-Kulde-Varmepumpe-Ventilasjon
+# Fagprov-Kulde-Varmepumpe-Ventilasjon er en AI generert fagprøve verktøy for å trene på noe i fagfeltet. Dette er ikke kontrollert av fagfolk, og er ment for privat bruk, men kan brukes av alle som ønsker.
+100 Spørsmål, men 64 i hvver prøve, spåå om du tar den om igjen får du noen nye spørsmål...
